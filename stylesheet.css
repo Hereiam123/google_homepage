@@ -1,0 +1,12 @@
+#nav > ul
+{
+	list-style-type: none;
+	float: right;
+}
+
+#nav > ul > li
+{
+	display:inline;
+	margin: 5px;
+	font-family: Verdana;
+}
