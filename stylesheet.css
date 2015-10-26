@@ -1,12 +1,13 @@
 #nav
 {
 	float: right;
+	margin: 10px;
 }
 
 #nav > a
 {
 	display:inline;
-	margin: 5px;
+	margin: 15px;
 	font-family: Verdana;
 }
 
@@ -26,16 +27,20 @@
 
 #the_initial
 {
-	border-radius: 100%;
+	border-radius: 50%;
+	width: 50px;
+	height:50px;
+		text-align: center;
 	background-color: blue;
-	padding:10px;
+	display: inline-block;
 }
 
-#the_initial > span
+#the_initial > a > span
 {
+	font-family: Verdana;
 	color: white;
-	font-size: 40px;
-	text-align: center;
+	font-size: 20px;
+	line-height:50px;
 }
 
 a
