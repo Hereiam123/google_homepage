@@ -65,20 +65,20 @@ a
 
 #submitSearch
 {
-	width:200px;
+	width:175px;
 	height:40px;
 	margin-top: 20px;
-	margin-left: 300px; 
+	margin-left: 280px; 
 	border: none;
 	font-size: 15px;
 	font-family: sans-serif;
 	font-weight: bold;
-	background-color: #F5F5F5;
+	background-color: #EBEBEB;
 }
 
 #submitSearchLucky
 {
-	width:200px;
+	width:175px;
 	height:40px;
 	margin-top: 20px;
 	margin-left: 30px; 
@@ -86,7 +86,19 @@ a
 	font-size: 15px;
 	font-family: sans-serif;
 	font-weight: bold;
-	background-color: #F5F5F5;
+	background-color: #EBEBEB;
+}
+
+#footer
+{
+	width: 100%;
+	height: 75px;
+	background-color: gray;
+	position: fixed;
+	bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
 }
 
 
